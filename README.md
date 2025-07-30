@@ -66,7 +66,7 @@
 
 ### 💬 Let's Build Something Amazing Together!
 
-*Always open to collaborating on exciting Frontend and Full-Stackp rojects*  
+*Always open to collaborating on exciting Frontend and Full-Stack projects*  
 *Feel free to reach out for opportunities, collaborations, or just a friendly chat!*
 
 </div>
